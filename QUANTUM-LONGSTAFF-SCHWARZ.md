@@ -165,7 +165,3 @@ if __name__ == "__main__":
 ... [Quantum Monte Carlo for Option Pricing](https://www.youtube.com/watch?v=z8WGPbc66Jk)
 
 This video walks through the specific Qiskit components used in the code above, visually explaining how the Log-Normal distribution and Payload circuits are constructed for option pricing.
-
-http://googleusercontent.com/youtube_content/0
-
-
