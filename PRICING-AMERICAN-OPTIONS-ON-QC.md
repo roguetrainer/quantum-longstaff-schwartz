@@ -1,3 +1,5 @@
+# Pricing an American option on a quantum computer 
+
 Pricing an American option on a quantum computer is significantly more complex than pricing a European option because of the **early exercise feature**. This transforms the pricing task from a simple estimation problem (calculating an integral) into an **optimal stopping problem** (calculating a strategy).
 
 Yes, there are specific algorithms designed for this. Most "quantum" approaches to American options are actually **hybrid algorithms** that use quantum subroutines to speed up specific bottlenecks in classical methods—specifically the estimation of future payoffs and continuation values.
